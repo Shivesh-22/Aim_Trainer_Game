@@ -39,11 +39,11 @@ Getting Started
 
 Installation
 
-	  1.	Clone this repository:
-       git clone https://github.com/Shivesh-22/aim-trainer-game.git
+	1.Clone this repository:
+           git clone https://github.com/Shivesh-22/aim-trainer-game.git
 
-    2.	Navigate to the project directory:
-       cd aim-trainer-game
+    	2.Navigate to the project directory:
+       	   cd aim-trainer-game
 
   Running the Game
 
